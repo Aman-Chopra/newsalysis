@@ -1,1 +1,3 @@
-# newsalysis
+This is the code for the paper titled "Comparative Analysis of Statistical Classifiers for Predicting News Popularity on Social Web", presented in 2019 International Conference on Computer Communication and Informatics (ICCCI -2019), Jan. 23-25, 2019, Coimbatore, INDIA
+
+Description: In this paper, we have compared and analyzed models to predict the popularity of online news on social media platforms. We conduct a case study with three social media platforms i.e., Facebook, LinkedIn, and Google+. The popularity score of the news is calculated indi- vidually on the three social media platforms based on timestamp, news topic and the sentiment scores of title and headline. The popularity score is used to predict whether the news will be popular on a particular social media. The prime objective is to compare the accuracy of different models and suggest a novel one to predict online news popularity before its publication.
